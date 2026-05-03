@@ -6085,7 +6085,7 @@ const ProductDetailPage = ({
             }}
           >
             {[
-              { icon: "🚚", text: "Delivered in 3–5 days" },
+              { icon: "🚚", text: "Delivered in 3–5 day" },
               { icon: "💵", text: "Cash on Delivery available" },
               { icon: "↩️", text: "Easy Returns within 3 days" },
             ].map((t, i) => (
