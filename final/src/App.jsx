@@ -259,8 +259,23 @@ const GlobalStyle = () => (
       box-sizing: border-box;
     }
     @media (max-width: 768px) {
-      .navbar-links { display: none; }
-      .navbar-inner { padding: 0 12px; }
+      .navbar-inner {
+        height: auto;
+        padding: 10px 12px 6px;
+        flex-wrap: wrap;
+        gap: 8px;
+      }
+      .navbar-links {
+        order: 3;
+        flex: 0 0 100%;
+        justify-content: flex-start;
+        overflow-x: auto;
+        padding-top: 4px;
+      }
+      .nav-link {
+        padding: 8px 10px;
+        font-size: 10px;
+      }
       .subnav-inner { padding: 0 12px; }
       .page-container { padding: 0 12px; }
     }
@@ -4382,7 +4397,14 @@ const Navbar = ({
   user,
 }) => {
   const [scrolled, setScrolled] = useState(false);
-  const navLinks = ["Home", "Collections", "Bridal", "Custom Order", "Contact"];
+  const navLinks = [
+    { label: "Home", page: "Home" },
+    { label: "Collections", page: "Collections" },
+    { label: "Bridal", page: "Bridal" },
+    { label: "Custom Order", page: "Custom Order" },
+    { label: "Location", page: "Contact" },
+    { label: "Contact", page: "Contact" },
+  ];
   const subNavItems = [
     "HOME",
     "BANGLES",
@@ -4456,13 +4478,15 @@ const Navbar = ({
 
         {/* CENTER — Nav links */}
         <nav className="navbar-links">
-          {navLinks.map((l) => (
+          {navLinks.map(({ label, page: targetPage }) => (
             <button
-              key={l}
-              className={`nav-link ${page === l ? "active" : ""}`}
-              onClick={() => setPage(l)}
+              key={label}
+              className={`nav-link ${
+                page === targetPage && label !== "Location" ? "active" : ""
+              }`}
+              onClick={() => setPage(targetPage)}
             >
-              {l}
+              {label}
             </button>
           ))}
         </nav>
@@ -7995,85 +8019,12 @@ const PolicyPage = ({ policyKey, onBack }) => {
           {/* ── Content sections ── */}
           <div>
             {policy.sections.map((sec, i) => (
-              <div
-                key={i}
-                id={`section-${i}`}
-                ref={useReveal()}
-                className="reveal"
-                style={{ marginBottom: 28, transitionDelay: `${i * 0.07}s` }}
-              >
-                <div
-                  style={{
-                    background: "#fff",
-                    border: "1px solid var(--brand4)",
-                    borderRadius: 12,
-                    overflow: "hidden",
-                    transition: "box-shadow 0.25s, transform 0.25s",
-                  }}
-                  onMouseEnter={(e) => {
-                    e.currentTarget.style.boxShadow =
-                      "0 8px 32px rgba(90,55,25,0.1)";
-                    e.currentTarget.style.transform = "translateY(-2px)";
-                  }}
-                  onMouseLeave={(e) => {
-                    e.currentTarget.style.boxShadow = "none";
-                    e.currentTarget.style.transform = "none";
-                  }}
-                >
-                  {/* Section header */}
-                  <div
-                    style={{
-                      background: `${policy.color}0d`,
-                      borderBottom: "1px solid var(--brand4)",
-                      padding: "16px 22px",
-                      display: "flex",
-                      alignItems: "center",
-                      gap: 12,
-                    }}
-                  >
-                    <div
-                      style={{
-                        width: 28,
-                        height: 28,
-                        borderRadius: "50%",
-                        background: policy.color,
-                        color: "#fff",
-                        display: "flex",
-                        alignItems: "center",
-                        justifyContent: "center",
-                        fontSize: 11,
-                        fontWeight: 800,
-                        flexShrink: 0,
-                      }}
-                    >
-                      {i + 1}
-                    </div>
-                    <h2
-                      style={{
-                        fontFamily: "'Cormorant Garamond', serif",
-                        fontWeight: 700,
-                        fontSize: 18,
-                        color: policy.color,
-                      }}
-                    >
-                      {sec.title}
-                    </h2>
-                  </div>
-                  {/* Section body */}
-                  <div style={{ padding: "20px 22px" }}>
-                    <p
-                      style={{
-                        fontSize: 13,
-                        color: "#444",
-                        lineHeight: 1.9,
-                        whiteSpace: "pre-line",
-                      }}
-                    >
-                      {sec.content}
-                    </p>
-                  </div>
-                </div>
-              </div>
+              <PolicySection
+                key={`${policyKey}-${sec.title}`}
+                section={sec}
+                index={i}
+                color={policy.color}
+              />
             ))}
 
             {/* Last updated */}
@@ -8104,7 +8055,90 @@ const PolicyPage = ({ policyKey, onBack }) => {
     </div>
   );
 };
-const Footer = ({ setPage, onPolicyPage }) => (
+
+const PolicySection = ({ section, index, color }) => {
+  const revealRef = useReveal();
+
+  return (
+    <div
+      id={`section-${index}`}
+      ref={revealRef}
+      className="reveal"
+      style={{ marginBottom: 28, transitionDelay: `${index * 0.07}s` }}
+    >
+      <div
+        style={{
+          background: "#fff",
+          border: "1px solid var(--brand4)",
+          borderRadius: 12,
+          overflow: "hidden",
+          transition: "box-shadow 0.25s, transform 0.25s",
+        }}
+        onMouseEnter={(e) => {
+          e.currentTarget.style.boxShadow = "0 8px 32px rgba(90,55,25,0.1)";
+          e.currentTarget.style.transform = "translateY(-2px)";
+        }}
+        onMouseLeave={(e) => {
+          e.currentTarget.style.boxShadow = "none";
+          e.currentTarget.style.transform = "none";
+        }}
+      >
+        <div
+          style={{
+            background: `${color}0d`,
+            borderBottom: "1px solid var(--brand4)",
+            padding: "16px 22px",
+            display: "flex",
+            alignItems: "center",
+            gap: 12,
+          }}
+        >
+          <div
+            style={{
+              width: 28,
+              height: 28,
+              borderRadius: "50%",
+              background: color,
+              color: "#fff",
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+              fontSize: 11,
+              fontWeight: 800,
+              flexShrink: 0,
+            }}
+          >
+            {index + 1}
+          </div>
+          <h2
+            style={{
+              fontFamily: "'Cormorant Garamond', serif",
+              fontWeight: 700,
+              fontSize: 18,
+              color,
+            }}
+          >
+            {section.title}
+          </h2>
+        </div>
+        <div style={{ padding: "20px 22px" }}>
+          <p
+            style={{
+              fontSize: 13,
+              color: "#444",
+              lineHeight: 1.9,
+              whiteSpace: "pre-line",
+            }}
+          >
+            {section.content}
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+const Footer = ({ setPage, onPolicyPage, onShopCategory }) => (
   <footer>
     <div
       style={{
@@ -8249,6 +8283,7 @@ const Footer = ({ setPage, onPolicyPage }) => (
             ].map((item) => (
               <p
                 key={item}
+                onClick={() => onShopCategory(item)}
                 style={{
                   fontSize: 11,
                   opacity: 0.78,
@@ -8411,6 +8446,15 @@ export default function App() {
   const openPolicyPage = (key) => {
     setPolicyPage(key);
     setPage("Policy");
+    setSelectedProduct(null);
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
+  const openShopCategory = (category) => {
+    setCollectionsTab(category);
+    setPage("Collections");
+    setPolicyPage(null);
+    setSelectedProduct(null);
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
@@ -8509,7 +8553,11 @@ export default function App() {
         )}
       </main>
 
-      <Footer setPage={navigateTo} onPolicyPage={openPolicyPage} />
+      <Footer
+        setPage={navigateTo}
+        onPolicyPage={openPolicyPage}
+        onShopCategory={openShopCategory}
+      />
 
       {showSearch && (
         <SearchModal
