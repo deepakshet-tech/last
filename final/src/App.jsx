@@ -326,15 +326,15 @@ const PRODUCTS = {
     {
       id: 1,
       name: "High Gold Plated Floral Ring",
-      price: 549,
+      price: 199999,
       mrp: 1498,
-      img: "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=500&q=85",
+      img: "https://4.imimg.com/data4/IA/VJ/MY-23163465/gold-ring-500x500.jpg",
       tag: "Extra 50% OFF",
     },
     {
       id: 2,
       name: "Diamond Studded Adjustable Ring",
-      price: 599,
+      price: 199599,
       mrp: 1111,
       img: "https://www.candere.com/media/jewellery/images/C001952__1.jpeg",
       tag: "Extra 50% OFF",
@@ -342,7 +342,7 @@ const PRODUCTS = {
     {
       id: 3,
       name: "Gold Plated Stone Ring",
-      price: 449,
+      price: 99449,
       mrp: 1199,
       img: "https://kinclimg3.bluestone.com/f_jpg,c_scale,w_828,q_80,b_rgb:f0f0f0/giproduct/BIDG0319R180_YAA18DIG6XXXXXXXX_ABCD00-PICS-00001-1024-66194.png",
       tag: "Extra 50% OFF",
@@ -350,7 +350,7 @@ const PRODUCTS = {
     {
       id: 4,
       name: "Micro Gold Twisted Band Ring",
-      price: 399,
+      price: 199399,
       mrp: 999,
       img: "https://kinclimg9.bluestone.com/f_jpg,c_scale,w_828,q_80,b_rgb:f0f0f0/giproduct/BICM0339R06_YAA18DIG6XXXXXXXX_ABCD00-PICS-00001-1024-68695.png",
       tag: "Extra 50% OFF",
@@ -358,7 +358,7 @@ const PRODUCTS = {
     {
       id: 21,
       name: "Classic Pearl Finger Ring",
-      price: 329,
+      price: 199980,
       mrp: 899,
       img: "https://cdn-media.glamira.com/media/product/newgeneration/view/1/sku/MEN3/diamond/diamond-Brillant_AAA/alloycolour/yellow.jpg",
       tag: "Extra 50% OFF",
@@ -366,7 +366,7 @@ const PRODUCTS = {
     {
       id: 22,
       name: "Antique Gold Cocktail Ring",
-      price: 699,
+      price: 199699,
       mrp: 1799,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLxf4ZuVgSRs-OFhQyEFl9h9Cucrot883KQ&s.jpeg",
       tag: "Extra 50% OFF",
@@ -376,7 +376,7 @@ const PRODUCTS = {
     {
       id: 1,
       name: "High Gold Plated Floral Ring",
-      price: 549,
+      price: 99999,
       mrp: 1498,
       img: "https://kinclimg4.bluestone.com/f_jpg,c_scale,w_1024,q_80,b_rgb:f0f0f0/giproduct/BIRS0388R34_YAA18DIG6XXXXXXXX_ABCD00-BP-PICS-00001-1024-80796.png",
       tag: "Extra 50% OFF",
@@ -384,7 +384,7 @@ const PRODUCTS = {
     {
       id: 2,
       name: "Diamond Studded Adjustable Ring",
-      price: 599,
+      price: 155599,
       mrp: 1111,
       img: "https://www.rnarayanjewellers.com/cdn/shop/products/Circa-18kt-Gold-Diamond-Ring-1.jpg",
       tag: "Extra 50% OFF",
@@ -392,7 +392,7 @@ const PRODUCTS = {
     {
       id: 3,
       name: "Gold Plated Stone Ring",
-      price: 449,
+      price: 111449,
       mrp: 1199,
       img: "https://i.pinimg.com/236x/b8/91/e3/b891e3acdaaf8d98491e28131e865298.jpg",
       tag: "Extra 50% OFF",
@@ -400,7 +400,7 @@ const PRODUCTS = {
     {
       id: 4,
       name: "Micro Gold Twisted Band Ring",
-      price: 399,
+      price: 112399,
       mrp: 999,
       img: "https://sencowebfiles.s3.ap-south-1.amazonaws.com/products/HX1hhKJcWumidzI0VghMD15anv9w52Zj8uD3PMDi.jpeg",
       tag: "Extra 50% OFF",
@@ -408,7 +408,7 @@ const PRODUCTS = {
     {
       id: 21,
       name: "Classic Pearl Finger Ring",
-      price: 329,
+      price: 122329,
       mrp: 899,
       img: "https://m.media-amazon.com/images/I/718B2IPDNxL._AC_UY1100_.jpg",
       tag: "Extra 50% OFF",
@@ -416,7 +416,7 @@ const PRODUCTS = {
     {
       id: 22,
       name: "Antique Gold Cocktail Ring",
-      price: 699,
+      price: 111699,
       mrp: 1799,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzEZkYx0I54eAN8tUmU-8wpssi2B4JldBvSA&s.jpeg",
       tag: "Extra 50% OFF",
@@ -424,7 +424,7 @@ const PRODUCTS = {
     {
       id: 1,
       name: "High Gold Plated Floral Ring",
-      price: 549,
+      price: 199999,
       mrp: 1498,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3hTE2O-c_JCEmI3KnzigtDdiDWYwsJ2wlPA&s.png",
       tag: "Extra 50% OFF",
@@ -432,7 +432,7 @@ const PRODUCTS = {
     {
       id: 2,
       name: "Diamond Studded Adjustable Ring",
-      price: 599,
+      price: 99999,
       mrp: 1111,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTocz9FbiASYGzlt_hZbBbkOKrHNwObOyFStA&s.jpg",
       tag: "Extra 50% OFF",
@@ -440,7 +440,7 @@ const PRODUCTS = {
     {
       id: 3,
       name: "Gold Plated Stone Ring",
-      price: 449,
+      price: 199999,
       mrp: 1199,
       img: "https://5.imimg.com/data5/SELLER/Default/2024/12/474774342/ZF/FT/MR/29287787/aniva-r-5-1.jpg",
       tag: "Extra 50% OFF",
@@ -448,7 +448,7 @@ const PRODUCTS = {
     {
       id: 4,
       name: "Micro Gold Twisted Band Ring",
-      price: 399,
+      price: 111399,
       mrp: 999,
       img: "https://5.imimg.com/data5/SELLER/Default/2021/12/IH/JE/CR/70241119/dsc04070.JPG",
       tag: "Extra 50% OFF",
@@ -456,7 +456,7 @@ const PRODUCTS = {
     {
       id: 21,
       name: "Classic Pearl Finger Ring",
-      price: 329,
+      price: 111329,
       mrp: 899,
       img: "https://gandaramjewellers.com/wp-content/uploads/Traditinal-Gold-Ring-For-Women-205.jpg",
       tag: "Extra 50% OFF",
@@ -464,7 +464,7 @@ const PRODUCTS = {
     {
       id: 22,
       name: "Antique Gold Cocktail Ring",
-      price: 699,
+      price: 121699,
       mrp: 1799,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6b3RuVgCkozXsjQILymSAgTPkv2AaS6ztbA&s.jpg",
       tag: "Extra 50% OFF",
@@ -472,7 +472,7 @@ const PRODUCTS = {
     {
       id: 1,
       name: "High Gold Plated Floral Ring",
-      price: 549,
+      price: 112549,
       mrp: 1498,
       img: "https://sehgalgold.com/wp-content/uploads/2023/05/11r-1.jpg",
       tag: "Extra 50% OFF",
@@ -480,7 +480,7 @@ const PRODUCTS = {
     {
       id: 2,
       name: "Diamond Studded Adjustable Ring",
-      price: 599,
+      price: 131599,
       mrp: 1111,
       img: "https://images-static.nykaa.com/media/catalog/product/1/a/1a83fecNF-NISCKA-000976-076GPTWR_3.jpg",
       tag: "Extra 50% OFF",
@@ -492,7 +492,7 @@ const PRODUCTS = {
     {
       id: 5,
       name: "High Gold Plated Long Bahubali Chain",
-      price: 549,
+      price: 231549,
       mrp: 1149,
       img: "https://m.media-amazon.com/images/I/71d3NFbWo0L._AC_UY1100_.jpg",
       tag: "Extra 50% OFF",
@@ -500,7 +500,7 @@ const PRODUCTS = {
     {
       id: 6,
       name: "Gold Plated Pearl Necklace Set",
-      price: 699,
+      price: 111699,
       mrp: 1998,
       img: "https://m.media-amazon.com/images/I/81s23uB2cLL._AC_UY1100_.jpg",
       tag: "Extra 50% OFF",
@@ -508,7 +508,7 @@ const PRODUCTS = {
     {
       id: 7,
       name: "Diamond Studded Long Chain",
-      price: 649,
+      price: 199649,
       mrp: 2500,
       img: "https://m.media-amazon.com/images/I/51NYDdz-rXL._AC_UY1100_.jpg",
       tag: "Extra 50% OFF",
@@ -516,7 +516,7 @@ const PRODUCTS = {
     {
       id: 8,
       name: "Micro Gold Fancy Chain",
-      price: 599,
+      price: 199599,
       mrp: 2100,
       img: "https://m.media-amazon.com/images/I/91LZMSJJ3UL._AC_UY1100_.jpg",
       tag: "Extra 50% OFF",
@@ -524,7 +524,7 @@ const PRODUCTS = {
     {
       id: 23,
       name: "Layered Kundan Necklace",
-      price: 899,
+      price: 200899,
       mrp: 2400,
       img: "https://m.media-amazon.com/images/I/51NYDdz-rXL._AC_UY1100_.jpg",
       tag: "Extra 50% OFF",
@@ -532,7 +532,7 @@ const PRODUCTS = {
     {
       id: 24,
       name: "Gold Beaded Choker Necklace",
-      price: 479,
+      price: 301479,
       mrp: 1199,
       img: "https://m.media-amazon.com/images/I/71gZFlFVmzL.jpg",
       tag: "Extra 50% OFF",
@@ -540,7 +540,7 @@ const PRODUCTS = {
     {
       id: 94,
       name: "High Gold Plated Long Bahubali Chain",
-      price: 549,
+      price: 200549,
       mrp: 1149,
       img: "https://m.media-amazon.com/images/I/71OOlA0jYEL._AC_UY1100_.jpg",
       tag: "Extra 50% OFF",
@@ -548,7 +548,7 @@ const PRODUCTS = {
     {
       id: 95,
       name: "Gold Plated Pearl Necklace Set",
-      price: 699,
+      price: 322699,
       mrp: 1998,
       img: "https://d25g9z9s77rn4i.cloudfront.net/uploads/product/194/1737539642_bdac2baf411a5259c0b3.jpg",
       tag: "Extra 50% OFF",
@@ -556,7 +556,7 @@ const PRODUCTS = {
     {
       id: 96,
       name: "Diamond Studded Long Chain",
-      price: 649,
+      price: 222649,
       mrp: 2500,
       img: "https://i.etsystatic.com/22562645/r/il/b5dd45/2575344729/il_570xN.2575344729_prll.jpg",
       tag: "Extra 50% OFF",
@@ -564,7 +564,7 @@ const PRODUCTS = {
     {
       id: 97,
       name: "Micro Gold Fancy Chain",
-      price: 599,
+      price: 321599,
       mrp: 2100,
       img: "https://assets.myntassets.com/assets/images/27346266/2024/2/2/5a501c84-387a-45a7-a8ee-6c8ef2d093a21706867572618JewellerySet1.jpg",
       tag: "Extra 50% OFF",
@@ -572,7 +572,7 @@ const PRODUCTS = {
     {
       id: 98,
       name: "Layered Kundan Necklace",
-      price: 899,
+      price: 321899,
       mrp: 2400,
       img: "https://akshayagold.in/wp-content/uploads/2023/01/021.png",
       tag: "Extra 50% OFF",
@@ -580,7 +580,7 @@ const PRODUCTS = {
     {
       id: 100,
       name: "Gold Beaded Choker Necklace",
-      price: 479,
+      price: 211479,
       mrp: 1199,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT42eKTnQcl80b5A7N7tMovjEzrkNTvoiOdig&s.jpg",
       tag: "Extra 50% OFF",
@@ -588,7 +588,7 @@ const PRODUCTS = {
     {
       id: 101,
       name: "Layered Kundan Necklace",
-      price: 899,
+      price: 222899,
       mrp: 2400,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmy99d_i-SJEAUEvPnsspIIlszFRe9um_Z6A&s.jpg",
       tag: "Extra 50% OFF",
@@ -596,7 +596,7 @@ const PRODUCTS = {
     {
       id: 102,
       name: "Gold Beaded Choker Necklace",
-      price: 479,
+      price: 300479,
       mrp: 1199,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRiN6o584wasw_3usTe-WDZPyz6HHdQGMpoA&s.jpg",
       tag: "Extra 50% OFF",
@@ -606,7 +606,7 @@ const PRODUCTS = {
     {
       id: 101,
       name: "Layered Kundan Necklace",
-      price: 899,
+      price: 200899,
       mrp: 2400,
       img: "https://vilvajewels.com/cdn/shop/files/VIL08568.jpg",
       tag: "Extra 50% OFF",
@@ -614,7 +614,7 @@ const PRODUCTS = {
     {
       id: 102,
       name: "Gold Beaded Choker Necklace",
-      price: 479,
+      price: 300479,
       mrp: 1199,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBOAqXzgwMN-hMiWfou7pjEufX6VObbnwuUA&s.jpg",
       tag: "Extra 50% OFF",
@@ -624,7 +624,7 @@ const PRODUCTS = {
     {
       id: 9,
       name: "Gold Plated Adjustable Bracelet",
-      price: 599,
+      price: 200599,
       mrp: 2198,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_gO1x3IH_FdFUEZkmkHWYkUC0iHTeXEAlrQ&s.jpg",
       tag: "Extra 50% OFF",
@@ -632,7 +632,7 @@ const PRODUCTS = {
     {
       id: 10,
       name: "Butterfly Charm Bracelet",
-      price: 580,
+      price: 200580,
       mrp: 2100,
       img: "https://5.imimg.com/data5/ECOM/Default/2024/3/402709403/KI/EA/DH/11885699/1-gram-gold-plated-diamond-casual-design-bracelet-ladies-style-a228-soni-fashion-621.jpg",
       tag: "Extra 50% OFF",
@@ -640,7 +640,7 @@ const PRODUCTS = {
     {
       id: 11,
       name: "High Gold Stone Bangle Bracelet",
-      price: 549,
+      price: 199999,
       mrp: 2100,
       img: "https://5.imimg.com/data5/ECOM/Default/2024/3/402708807/FV/NG/NA/11885699/1-gram-gold-plated-heart-shape-superior-quality-bracelet-ladies-style-a284-soni-fashion-246-500x500.jpg",
       tag: "Extra 50% OFF",
@@ -648,7 +648,7 @@ const PRODUCTS = {
     {
       id: 25,
       name: "Rose Gold Charm Bracelet",
-      price: 449,
+      price: 299999,
       mrp: 1499,
       img: "https://5.imimg.com/data5/ECOM/Default/2024/3/402708804/RM/MY/PK/11885699/1-gram-gold-plated-heart-shape-superior-quality-bracelet-ladies-style-a284-soni-fashion-770-500x500.jpg",
       tag: "Extra 50% OFF",
@@ -656,7 +656,7 @@ const PRODUCTS = {
     {
       id: 26,
       name: "Crystal Bangle Set of 4",
-      price: 699,
+      price: 200699,
       mrp: 1999,
       img: "https://5.imimg.com/data5/ECOM/Default/2023/11/362314659/XU/OA/QX/11885699/1-gram-gold-plated-heart-shape-diamond-designer-bracelet-lady-style-a210-ladies-soni-858.jpg",
       tag: "Extra 50% OFF",
@@ -665,7 +665,7 @@ const PRODUCTS = {
     {
       id: 9,
       name: "Gold Plated Adjustable Bracelet",
-      price: 599,
+      price: 100599,
       mrp: 2198,
       img: "https://caratsutra.in/cdn/shop/products/Screenshot_2022-03-05-21-03-38-56_1c337646f29875672b5a61192b9010f9.jpg",
       tag: "Extra 50% OFF",
@@ -673,7 +673,7 @@ const PRODUCTS = {
     {
       id: 10,
       name: "Butterfly Charm Bracelet",
-      price: 580,
+      price: 200580,
       mrp: 2100,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpIoLcyX3y2N0HZa5TucAvBz1X0FNNEiHA5w&s.jpg",
       tag: "Extra 50% OFF",
@@ -681,7 +681,7 @@ const PRODUCTS = {
     {
       id: 11,
       name: "High Gold Stone Bangle Bracelet",
-      price: 549,
+      price: 200549,
       mrp: 2100,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHDaY9QOaEpQ2Fsrko2JJN4YYnlp51KWKCVw&s.png",
       tag: "Extra 50% OFF",
@@ -689,7 +689,7 @@ const PRODUCTS = {
     {
       id: 25,
       name: "Rose Gold Charm Bracelet",
-      price: 449,
+      price: 100449,
       mrp: 1499,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlyDaX5qrjqQYmpdTxvBCtwSUSc7BYxe1rNA&s.jpg",
       tag: "Extra 50% OFF",
@@ -697,7 +697,7 @@ const PRODUCTS = {
     {
       id: 26,
       name: "Crystal Bangle Set of 4",
-      price: 699,
+      price: 111699,
       mrp: 1999,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYJaaBY9qOaoa4HQPW48PE7xpFGNC0ekWwnA&s.png",
       tag: "Extra 50% OFF",
@@ -705,7 +705,7 @@ const PRODUCTS = {
     {
       id: 9,
       name: "Gold Plated Adjustable Bracelet",
-      price: 599,
+      price: 200599,
       mrp: 2198,
       img: "https://www.fashioncrab.com/wp-content/uploads/2023/10/White-Heart-Anti-Tarnish-Bracelet-Rose-Gold-01.jpg",
       tag: "Extra 50% OFF",
@@ -713,7 +713,7 @@ const PRODUCTS = {
     {
       id: 10,
       name: "Butterfly Charm Bracelet",
-      price: 580,
+      price: 200580,
       mrp: 2100,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxxr1P98rlI-u4RdiHWm11qZ_NQHfKapacEA&s.jpg",
       tag: "Extra 50% OFF",
@@ -721,7 +721,7 @@ const PRODUCTS = {
     {
       id: 11,
       name: "High Gold Stone Bangle Bracelet",
-      price: 549,
+      price: 200549,
       mrp: 2100,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaytMvFl812cl1T8m90mlTo9eb7nou6gXQ2g&s.jpeg",
       tag: "Extra 50% OFF",
@@ -729,7 +729,7 @@ const PRODUCTS = {
     {
       id: 25,
       name: "Rose Gold Charm Bracelet",
-      price: 449,
+      price: 100449,
       mrp: 1499,
       img: "https://images.jdmagicbox.com/quickquotes/images_main/second-hand-men-gold-bracelets-jewellery-for-party-wear-2220151642-jqnrbq18.jpg",
       tag: "Extra 50% OFF",
@@ -737,7 +737,7 @@ const PRODUCTS = {
     {
       id: 26,
       name: "Crystal Bangle Set of 4",
-      price: 699,
+      price: 300699,
       mrp: 1999,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdE34rISzRSQCxCq6K8s_QecFOGriFRf7AIw&s.jpg",
       tag: "Extra 50% OFF",
@@ -745,7 +745,7 @@ const PRODUCTS = {
     {
       id: 26,
       name: "Crystal Bangle Set of 4",
-      price: 699,
+      price: 200699,
       mrp: 1999,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLXlbgm7p2OPa-5f5Ep1F7BOLf4O9Z115b3w&s.png",
       tag: "Extra 50% OFF",
@@ -754,7 +754,7 @@ const PRODUCTS = {
     {
       id: 26,
       name: "Crystal Bangle Set of 4",
-      price: 699,
+      price: 100699,
       mrp: 1999,
       img: "https://carltonlondon.co.in/cdn/shop/files/fjb4523_3.jpg",
       tag: "Extra 50% OFF",
@@ -762,7 +762,7 @@ const PRODUCTS = {
     {
       id: 26,
       name: "Crystal Bangle Set of 4",
-      price: 699,
+      price: 200699,
       mrp: 1999,
       img: "https://img.tatacliq.com/images/i17//437Wx649H/MP000000022210770_437Wx649H_202405102112091.jpeg",
       tag: "Extra 50% OFF",
@@ -770,7 +770,7 @@ const PRODUCTS = {
     {
       id: 26,
       name: "Crystal Bangle Set of 4",
-      price: 699,
+      price: 150699,
       mrp: 1999,
       img: "https://images.meesho.com/images/products/645209276/rcfox_512.webp?width=512.png",
       tag: "Extra 50% OFF",
@@ -778,7 +778,7 @@ const PRODUCTS = {
     {
       id: 26,
       name: "Crystal Bangle Set of 4",
-      price: 699,
+      price: 130699,
       mrp: 1999,
       img: "https://s.alicdn.com/@sc04/kf/H66c60d35f5b54db3954bf627159d0ba9A.jpg",
       tag: "Extra 50% OFF",
@@ -788,7 +788,7 @@ const PRODUCTS = {
     {
       id: 12,
       name: "Gold Plated Crystal Drop Earrings",
-      price: 449,
+      price: 99449,
       mrp: 1499,
       img: "https://img.tatacliq.com/images/i19//437Wx649H/MP000000023531489_437Wx649H_202409040109041.jpeg",
       tag: "Extra 50% OFF",
@@ -796,7 +796,7 @@ const PRODUCTS = {
     {
       id: 13,
       name: "Diamond Studded Floral Studs",
-      price: 399,
+      price: 89399,
       mrp: 1199,
       img: "https://www.shreehari.co/media/catalog/product/cache/57db4a1e37f9bcfcae47c0bfd2b59438/w/e/wer215rbw_-_1a.png",
       tag: "Extra 50% OFF",
@@ -804,7 +804,7 @@ const PRODUCTS = {
     {
       id: 14,
       name: "High Gold Jhumka Earrings",
-      price: 549,
+      price: 77549,
       mrp: 2100,
       img: "https://www.ambery.in/live/img/business_product/4kLN8StW1A_20230509180345.jpg",
       tag: "Extra 50% OFF",
@@ -812,7 +812,7 @@ const PRODUCTS = {
     {
       id: 27,
       name: "Pearl Drop Dangle Earrings",
-      price: 379,
+      price: 76379,
       mrp: 999,
       img: "https://img.tatacliq.com/images/i4/450Wx545H/MP000000003837475_450Wx545H_20181025212335.jpeg",
       tag: "Extra 50% OFF",
@@ -820,7 +820,7 @@ const PRODUCTS = {
     {
       id: 28,
       name: "Gold Hoop Statement Earrings",
-      price: 499,
+      price: 78499,
       mrp: 1599,
       img: "https://m.media-amazon.com/images/I/71SJYa3LyfL._AC_UY1100_.jpg",
       tag: "Extra 50% OFF",
@@ -830,7 +830,7 @@ const PRODUCTS = {
     {
       id: 103,
       name: "Gold Plated Crystal Drop Earrings",
-      price: 449,
+      price: 76449,
       mrp: 1499,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEeYFqaaCoGYE0puSCI8ttJCYKIN82qiLEgA&s.jpg",
       tag: "Extra 50% OFF",
@@ -838,7 +838,7 @@ const PRODUCTS = {
     {
       id: 104,
       name: "Diamond Studded Floral Studs",
-      price: 399,
+      price: 70399,
       mrp: 1199,
       img: "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw677f6639/images/hi-res/511069SOEAGA00_1.jpg",
       tag: "Extra 50% OFF",
@@ -846,7 +846,7 @@ const PRODUCTS = {
     {
       id: 105,
       name: "High Gold Jhumka Earrings",
-      price: 549,
+      price: 66549,
       mrp: 2100,
       img: "https://rukmini1.flixcart.com/image/1500/1500/xif0q/earring/4/o/l/na-vfj2428erg-10-vighnaharta-original-imahfprwszcptytf.jpeg",
       tag: "Extra 50% OFF",
@@ -854,7 +854,7 @@ const PRODUCTS = {
     {
       id: 106,
       name: "Pearl Drop Dangle Earrings",
-      price: 379,
+      price: 65379,
       mrp: 999,
       img: "https://assets.ajio.com/medias/sys_master/root/20240417/54O1/661ff95205ac7d77bb1478b3/-473Wx593H-467259283-gold-MODEL.jpg",
       tag: "Extra 50% OFF",
@@ -862,7 +862,7 @@ const PRODUCTS = {
     {
       id: 107,
       name: "Gold Hoop Statement Earrings",
-      price: 499,
+      price: 63499,
       mrp: 1599,
       img: "https://assets.ajio.com/medias/sys_master/root/20240524/dYDC/6650b22905ac7d77bb78a00b/-473Wx593H-6006973660-multi-MODEL.jpg",
       tag: "Extra 50% OFF",
@@ -870,7 +870,7 @@ const PRODUCTS = {
     {
       id: 108,
       name: "Diamond Studded Floral Studs",
-      price: 399,
+      price: 77399,
       mrp: 1199,
       img: "https://img.tatacliq.com/images/i17//437Wx649H/MP000000022210932_437Wx649H_202405102117565.jpeg",
       tag: "Extra 50% OFF",
@@ -878,7 +878,7 @@ const PRODUCTS = {
     {
       id: 109,
       name: "High Gold Jhumka Earrings",
-      price: 549,
+      price: 79549,
       mrp: 2100,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSryBH1vTNfQmuztyZzRAZ-0Z-T7qZO6tjFwQ&s.png",
       tag: "Extra 50% OFF",
@@ -886,7 +886,7 @@ const PRODUCTS = {
     {
       id: 110,
       name: "Pearl Drop Dangle Earrings",
-      price: 379,
+      price: 70379,
       mrp: 999,
       img: "https://i.pinimg.com/236x/1a/85/57/1a8557756f03a4c1be3af4dc960d3baa.jpg",
       tag: "Extra 50% OFF",
@@ -894,7 +894,7 @@ const PRODUCTS = {
     {
       id: 111,
       name: "Gold Hoop Statement Earrings",
-      price: 499,
+      price: 80499,
       mrp: 1599,
       img: "https://www.dazzlesjewellery.in/cdn/shop/files/IMG_2638_83ca4948-6d4a-4196-af06-990c4cb4c16f.jpg",
       tag: "Extra 50% OFF",
@@ -903,7 +903,7 @@ const PRODUCTS = {
     {
       id: 110,
       name: "Pearl Drop Dangle Earrings",
-      price: 379,
+      price: 81379,
       mrp: 999,
       img: "https://purplesecret.in/cdn/shop/files/10_8.jpg",
       tag: "Extra 50% OFF",
@@ -911,7 +911,7 @@ const PRODUCTS = {
     {
       id: 111,
       name: "Gold Hoop Statement Earrings",
-      price: 499,
+      price: 88499,
       mrp: 1599,
       img: "https://www.chidambaramgoldcovering.com/image/cache/catalog/ChidambaramGoldCovering/earrings/er4052-new-two-gram-gold-stud-earring-shop-online-1a-850x1000.jpg",
       tag: "Extra 50% OFF",
@@ -921,7 +921,7 @@ const PRODUCTS = {
     {
       id: 30,
       name: "Gold Plated Kundan Bangle Set",
-      price: 799,
+      price: 99799,
       mrp: 2199,
       img: "https://img.tatacliq.com/images/i11/437Wx649H/MP000000017922672_437Wx649H_202306131409061.jpeg",
       tag: "Extra 50% OFF",
@@ -929,7 +929,7 @@ const PRODUCTS = {
     {
       id: 31,
       name: "Antique Finish Floral Bangle",
-      price: 549,
+      price: 100549,
       mrp: 1499,
       img: "https://img.tatacliq.com/images/i11/437Wx649H/MP000000017922666_437Wx649H_202306131409071.jpeg",
       tag: "Extra 50% OFF",
@@ -937,7 +937,7 @@ const PRODUCTS = {
     {
       id: 32,
       name: "High Gold Stone Bangle Set of 6",
-      price: 699,
+      price: 121699,
       mrp: 1999,
       img: "https://img.tatacliq.com/images/i11/1348Wx2000H/MP000000017922409_1348Wx2000H_202306131359101.jpeg",
       tag: "Extra 50% OFF",
@@ -945,7 +945,7 @@ const PRODUCTS = {
     {
       id: 33,
       name: "Micro Gold Twist Bangle Pair",
-      price: 449,
+      price: 121449,
       mrp: 1199,
       img: "https://img.tatacliq.com/images/i11/450Wx545H/MP000000017922399_450Wx545H_202306131359011.jpeg",
       tag: "Extra 50% OFF",
@@ -953,7 +953,7 @@ const PRODUCTS = {
     {
       id: 34,
       name: "Pearl Inlay Wide Bangle",
-      price: 899,
+      price: 133899,
       mrp: 2500,
       img: "https://img.tatacliq.com/images/i11/450Wx545H/MP000000017922664_450Wx545H_202306131409031.jpeg",
       tag: "Extra 50% OFF",
@@ -961,7 +961,7 @@ const PRODUCTS = {
     {
       id: 35,
       name: "Diamond Cut Gold Bangle",
-      price: 599,
+      price: 131599,
       mrp: 1799,
       img: "https://m.media-amazon.com/images/I/81JTJwH8SRL._AC_UY1100_.jpg",
       tag: "Extra 50% OFF",
@@ -970,7 +970,7 @@ const PRODUCTS = {
     {
       id: 118,
       name: "Antique Finish Floral Bangle",
-      price: 549,
+      price: 141549,
       mrp: 1499,
       img: "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw550e0ab3/images/hi-res/510115VEA2A00.jpg",
       tag: "Extra 50% OFF",
@@ -978,7 +978,7 @@ const PRODUCTS = {
     {
       id: 119,
       name: "High Gold Stone Bangle Set of 6",
-      price: 699,
+      price: 151699,
       mrp: 1999,
       img: "https://svtmjewels.com/cdn/shop/files/SV-107-0182-_2.jpg",
       tag: "Extra 50% OFF",
@@ -986,7 +986,7 @@ const PRODUCTS = {
     {
       id: 120,
       name: "Micro Gold Twist Bangle Pair",
-      price: 449,
+      price: 113449,
       mrp: 1199,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQd2Lst1HElvRVJ-5ZIj7xXjikNZfG3vrQcQ&s.jpg",
       tag: "Extra 50% OFF",
@@ -994,7 +994,7 @@ const PRODUCTS = {
     {
       id: 121,
       name: "Pearl Inlay Wide Bangle",
-      price: 899,
+      price: 114899,
       mrp: 2500,
       img: "https://estele.co/cdn/shop/products/7B3A4507.jpg",
       tag: "Extra 50% OFF",
@@ -1002,7 +1002,7 @@ const PRODUCTS = {
     {
       id: 122,
       name: "Diamond Cut Gold Bangle",
-      price: 599,
+      price: 99599,
       mrp: 1799,
       img: "https://m.media-amazon.com/images/I/71upVNz0SJL._SY535_.jpg",
       tag: "Extra 50% OFF",
@@ -1010,7 +1010,7 @@ const PRODUCTS = {
     {
       id: 123,
       name: "Micro Gold Twist Bangle Pair",
-      price: 449,
+      price: 93449,
       mrp: 1199,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBKJDSsZjICw69kCMtIA4sR-9wTTj53BQ9MA&s.jpg",
       tag: "Extra 50% OFF",
@@ -1018,7 +1018,7 @@ const PRODUCTS = {
     {
       id: 124,
       name: "Pearl Inlay Wide Bangle",
-      price: 899,
+      price: 99899,
       mrp: 2500,
       img: "https://assets.myntassets.com/w_360,q_50,,dpr_2,fl_progressive,f_webp/assets/images/18341666/2022/5/19/1741061c-731c-4eb7-bad0-68d7fab373971652971129107ShiningDivaSetOf6StylishGoldPlatedBangles2.jpg",
       tag: "Extra 50% OFF",
@@ -1026,7 +1026,7 @@ const PRODUCTS = {
     {
       id: 125,
       name: "Diamond Cut Gold Bangle",
-      price: 599,
+      price: 98599,
       mrp: 1799,
       img: "https://assets.myntassets.com/w_360,q_50,,dpr_2,fl_progressive,f_webp/assets/images/2024/SEPTEMBER/24/03MAAKfQ_3d15372f229a4259ba8ae0386b0fabb9.jpg",
       tag: "Extra 50% OFF",
@@ -1034,7 +1034,7 @@ const PRODUCTS = {
     {
       id: 124,
       name: "Pearl Inlay Wide Bangle",
-      price: 899,
+      price: 100899,
       mrp: 2500,
       img: "https://d25g9z9s77rn4i.cloudfront.net/uploads/product/1178/1673964631_b7b27a1eac58ac0399d9.jpg",
       tag: "Extra 50% OFF",
@@ -1042,7 +1042,7 @@ const PRODUCTS = {
     {
       id: 125,
       name: "Diamond Cut Gold Bangle",
-      price: 599,
+      price: 101599,
       mrp: 1799,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9KEn1e6iNQ6Uw6krHG1cxTST3znMW54FOXw&s.jpg",
       tag: "Extra 50% OFF",
@@ -1052,7 +1052,7 @@ const PRODUCTS = {
     {
       id: 40,
       name: "Rope Chain Gold Plated 24 inch",
-      price: 599,
+      price: 112599,
       mrp: 1599,
       img: "https://images.unsplash.com/photo-1611085583191-a3b181a88401?w=500&q=85",
       tag: "Extra 50% OFF",
@@ -1060,7 +1060,7 @@ const PRODUCTS = {
     {
       id: 41,
       name: "Box Link Gold Chain 22 inch",
-      price: 699,
+      price: 133699,
       mrp: 1999,
       img: "https://images.unsplash.com/photo-1602173574767-37ac01994b2a?w=500&q=85",
       tag: "Extra 50% OFF",
@@ -1068,7 +1068,7 @@ const PRODUCTS = {
     {
       id: 42,
       name: "Figaro Chain High Gold 20 inch",
-      price: 549,
+      price: 142549,
       mrp: 1499,
       img: "https://img.tatacliq.com/images/i17//437Wx649H/MP000000022105679_437Wx649H_202405020512271.jpeg",
       tag: "Extra 50% OFF",
@@ -1076,7 +1076,7 @@ const PRODUCTS = {
     {
       id: 43,
       name: "Curb Chain Gold Plated Mens",
-      price: 849,
+      price: 152849,
       mrp: 2299,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTupnD-F6Zgh-IzWESZW6Znm9QmAbJj2eCcAg&s.jpg",
       tag: "Extra 50% OFF",
@@ -1084,7 +1084,7 @@ const PRODUCTS = {
     {
       id: 44,
       name: "Singapore Chain Micro Gold",
-      price: 479,
+      price: 188479,
       mrp: 1299,
       img: "https://img.tatacliq.com/images/i17//1348Wx2000H/MP000000022105647_1348Wx2000H_202405020511332.jpeg",
       tag: "Extra 50% OFF",
@@ -1092,7 +1092,7 @@ const PRODUCTS = {
     {
       id: 45,
       name: "Herringbone Flat Chain 18 inch",
-      price: 649,
+      price: 143649,
       mrp: 1799,
       img: "https://m.media-amazon.com/images/I/517SaNNNGTL._AC_UY1100_.jpg",
       tag: "Extra 50% OFF",
@@ -1100,7 +1100,7 @@ const PRODUCTS = {
     {
       id: 46,
       name: "Fully collymative chain",
-      price: 643,
+      price: 143643,
       mrp: 2465,
       img: "https://i.etsystatic.com/10176016/r/il/7b15b7/3490498076/il_570xN.3490498076_r2y5.jpg",
       tag: "Extra 30% OFF",
@@ -1109,7 +1109,7 @@ const PRODUCTS = {
     {
       id: 126,
       name: "Rope Chain Gold Plated 24 inch",
-      price: 599,
+      price: 132599,
       mrp: 1599,
       img: "https://images-static.nykaa.com/media/catalog/product/5/b/5bbbf7dnykfbl0000643_1.jpg",
       tag: "Extra 50% OFF",
@@ -1117,7 +1117,7 @@ const PRODUCTS = {
     {
       id: 127,
       name: "Box Link Gold Chain 22 inch",
-      price: 699,
+      price: 194699,
       mrp: 1999,
       img: "https://salty.co.in/cdn/shop/files/NS14480-G_Model_20_281_29.jpg?v=1773355935&width=1080.jpg",
       tag: "Extra 50% OFF",
@@ -1125,7 +1125,7 @@ const PRODUCTS = {
     {
       id: 128,
       name: "Figaro Chain High Gold 20 inch",
-      price: 549,
+      price: 164549,
       mrp: 1499,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaxdJn9Efry2n5Diwtrb8G6YRoRzJnSfB4wA&s.jpg",
       tag: "Extra 50% OFF",
@@ -1133,7 +1133,7 @@ const PRODUCTS = {
     {
       id: 129,
       name: "Curb Chain Gold Plated Mens",
-      price: 849,
+      price: 134849,
       mrp: 2299,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJmojoctKmDDBKRUpghK6_oNDx2DIdi0tsQ&s.jpg",
       tag: "Extra 50% OFF",
@@ -1141,7 +1141,7 @@ const PRODUCTS = {
     {
       id: 130,
       name: "Singapore Chain Micro Gold",
-      price: 479,
+      price: 194479,
       mrp: 1299,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT75JzLFqDX5WvmWFXO1CSrwHDiOh2eKaJESA&s.png",
       tag: "Extra 50% OFF",
@@ -1149,7 +1149,7 @@ const PRODUCTS = {
     {
       id: 131,
       name: "Herringbone Flat Chain 18 inch",
-      price: 649,
+      price: 122649,
       mrp: 1799,
       img: "https://i.pinimg.com/736x/a1/c2/f1/a1c2f1bf5dd3b4f926e3634a207dc6e2.jpg",
       tag: "Extra 50% OFF",
@@ -1157,7 +1157,7 @@ const PRODUCTS = {
     {
       id: 132,
       name: "Fully collymative chain",
-      price: 643,
+      price: 164643,
       mrp: 2465,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjKBIuMW6RaqhQm7zIHAxw1xArF1BSmkXRlA&s.jpg",
       tag: "Extra 30% OFF",
@@ -1165,7 +1165,7 @@ const PRODUCTS = {
     {
       id: 131,
       name: "Herringbone Flat Chain 18 inch",
-      price: 649,
+      price: 194649,
       mrp: 1799,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Xx_QYH6heLRy2xGG3b-fZ1xrhcfzqoFweA&s.jpeg",
       tag: "Extra 50% OFF",
@@ -1173,7 +1173,7 @@ const PRODUCTS = {
     {
       id: 132,
       name: "Fully collymative chain",
-      price: 643,
+      price: 143643,
       mrp: 2465,
       img: "https://images.jdmagicbox.com/quickquotes/images_main/mens-gold-chain-18-inch-22-kt-2222773161-8esgejp9.jpg",
       tag: "Extra 30% OFF",
@@ -1183,7 +1183,7 @@ const PRODUCTS = {
     {
       id: 50,
       name: "Diwali Glow Set – Necklace + Earrings",
-      price: 999,
+      price: 300999,
       mrp: 2799,
       img: "https://images.jdmagicbox.com/quickquotes/images_main/oxidized-silver-jewellery-set-2227016774-ucyujkdi.jpg",
       tag: "FESTIVE DEAL",
@@ -1191,7 +1191,7 @@ const PRODUCTS = {
     {
       id: 51,
       name: "Navratri Bridal Combo – Full Set",
-      price: 1499,
+      price: 211499,
       mrp: 4199,
       img: "https://rukmini1.flixcart.com/image/1500/1500/xif0q/jewellery-set/p/l/j/-original-imahfvf4prbha3d7.jpeg?q=70",
       tag: "FESTIVE DEAL",
@@ -1199,7 +1199,7 @@ const PRODUCTS = {
     {
       id: 52,
       name: "Wedding Season Combo – 5 Piece Set",
-      price: 1799,
+      price: 1321799,
       mrp: 4999,
       img: "https://m.media-amazon.com/images/I/71j6wZtI4-L._AC_UY1100_.jpg",
       tag: "FESTIVE DEAL",
@@ -1207,7 +1207,7 @@ const PRODUCTS = {
     {
       id: 53,
       name: "Eid Special Gold Plated Combo",
-      price: 1199,
+      price: 1641199,
       mrp: 3299,
       img: "https://m.media-amazon.com/images/I/91Yy2XC2lrL._AC_UY1100_.jpg",
       tag: "FESTIVE DEAL",
@@ -1215,7 +1215,7 @@ const PRODUCTS = {
     {
       id: 54,
       name: "Teej Bangles + Ring Combo",
-      price: 799,
+      price: 142799,
       mrp: 2199,
       img: "https://m.media-amazon.com/images/I/71V2wqakqmL._AC_UY1100_.jpg",
       tag: "FESTIVE DEAL",
@@ -1223,7 +1223,7 @@ const PRODUCTS = {
     {
       id: 55,
       name: "Puja Season Necklace Combo",
-      price: 1099,
+      price: 1941099,
       mrp: 2999,
       img: "https://m.media-amazon.com/images/I/618MuGq3FCL._AC_UY1100_.jpg",
       tag: "FESTIVE DEAL",
@@ -1232,7 +1232,7 @@ const PRODUCTS = {
     {
       id: 134,
       name: "Diwali Glow Set – Necklace + Earrings",
-      price: 999,
+      price: 333999,
       mrp: 2799,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLN4a-FzRvjni3YgZLPTiFjSj8nvMHXxqV3A&s.jpg",
       tag: "FESTIVE DEAL",
@@ -1240,7 +1240,7 @@ const PRODUCTS = {
     {
       id: 135,
       name: "Navratri Bridal Combo – Full Set",
-      price: 1499,
+      price: 3431499,
       mrp: 4199,
       img: "https://m.media-amazon.com/images/I/71+APuD2yZL._AC_UY1100_.jpg",
       tag: "FESTIVE DEAL",
@@ -1248,7 +1248,7 @@ const PRODUCTS = {
     {
       id: 136,
       name: "Wedding Season Combo – 5 Piece Set",
-      price: 1799,
+      price: 4321799,
       mrp: 4999,
       img: "https://5.imimg.com/data5/ECOM/Default/2024/5/416908813/ZI/OU/UE/11885699/lns-634-2.jpg",
       tag: "FESTIVE DEAL",
@@ -1256,7 +1256,7 @@ const PRODUCTS = {
     {
       id: 137,
       name: "Eid Special Gold Plated Combo",
-      price: 1199,
+      price: 5531199,
       mrp: 3299,
       img: "https://5.imimg.com/data5/ECOM/Default/2024/12/471804106/GP/CX/YO/11885699/eye-catchingdesigngoldplatednecklacesetforwomen-01d1abc5-1a36-4cb8-9496-7fd7216fa4a7-250x250.jpg",
       tag: "FESTIVE DEAL",
@@ -1264,7 +1264,7 @@ const PRODUCTS = {
     {
       id: 138,
       name: "Teej Bangles + Ring Combo",
-      price: 799,
+      price: 232799,
       mrp: 2199,
       img: "https://5.imimg.com/data5/ECOM/Default/2023/5/311306858/VI/EW/DY/11885699/lns-232-3-2ab0e220-494f-41b0-b47d-c21dea044dbe.jpg",
       tag: "FESTIVE DEAL",
@@ -1272,7 +1272,7 @@ const PRODUCTS = {
     {
       id: 139,
       name: "Puja Season Necklace Combo",
-      price: 1099,
+      price: 321099,
       mrp: 2999,
       img: "https://m.media-amazon.com/images/I/81vX-5o-ftL._AC_UY1100_.jpg",
       tag: "FESTIVE DEAL",
@@ -1280,7 +1280,7 @@ const PRODUCTS = {
     {
       id: 140,
       name: "Teej Bangles + Ring Combo",
-      price: 799,
+      price: 231799,
       mrp: 2199,
       img: "https://m.media-amazon.com/images/I/51bAMuMOA9L._AC_UY1100_.jpg",
       tag: "FESTIVE DEAL",
@@ -1288,7 +1288,7 @@ const PRODUCTS = {
     {
       id: 141,
       name: "Puja Season Necklace Combo",
-      price: 1099,
+      price: 1431099,
       mrp: 2999,
       img: "https://images.meesho.com/images/products/607984003/i70n8_512.webp?width=512.jpg",
       tag: "FESTIVE DEAL",
@@ -1296,7 +1296,7 @@ const PRODUCTS = {
     {
       id: 140,
       name: "Teej Bangles + Ring Combo",
-      price: 799,
+      price: 321799,
       mrp: 2199,
       img: "https://toomthekari.com/wp-content/uploads/2025/09/Spiral-Viral-Golden-and-Silver-Bracelets.png",
       tag: "FESTIVE DEAL",
@@ -1304,7 +1304,7 @@ const PRODUCTS = {
     {
       id: 141,
       name: "Puja Season Necklace Combo",
-      price: 1099,
+      price: 3121099,
       mrp: 2999,
       img: "https://images.meesho.com/images/products/659948205/dub04_512.jpg",
       tag: "FESTIVE DEAL",
@@ -1314,7 +1314,7 @@ const PRODUCTS = {
     {
       id: 60,
       name: "Traditional Black Bead Mangalsutra",
-      price: 699,
+      price: 200699,
       mrp: 1999,
       img: "https://5.imimg.com/data5/ANDROID/Default/2022/4/PN/XO/NC/128315483/product-jpeg-500x500.jpg",
       tag: "Extra 50% OFF",
@@ -1322,7 +1322,7 @@ const PRODUCTS = {
     {
       id: 61,
       name: "Short Diamond Pendant Mangalsutra",
-      price: 849,
+      price: 100849,
       mrp: 2399,
       img: "https://rukminim3.flixcart.com/image/824/972/xif0q/mangalsutra-tanmaniya/k/j/d/jh8318-jewar-mandi-original-imahc7dhutcv9dgb.jpeg",
       tag: "Extra 50% OFF",
@@ -1330,7 +1330,7 @@ const PRODUCTS = {
     {
       id: 62,
       name: "Long Chain Tanmaniya Style",
-      price: 999,
+      price: 100999,
       mrp: 2799,
       img: "https://rukmini1.flixcart.com/image/1500/1500/xif0q/mangalsutra-tanmaniya/d/s/x/c5p265-dency-original-imahh29yjmfqxnhk.jpeg",
       tag: "Extra 50% OFF",
@@ -1338,7 +1338,7 @@ const PRODUCTS = {
     {
       id: 63,
       name: "Modern Solitaire Mangalsutra",
-      price: 1199,
+      price: 1321199,
       mrp: 3299,
       img: "https://cdn3.imitationbazaar.com/p/1440x/1740486617113.jpeg",
       tag: "Extra 50% OFF",
@@ -1346,7 +1346,7 @@ const PRODUCTS = {
     {
       id: 64,
       name: "Layered Beaded Mangalsutra Set",
-      price: 799,
+      price: 121799,
       mrp: 2199,
       img: "https://m.media-amazon.com/images/I/81I2wEnmLZL._AC_UY1100_.jpg",
       tag: "Extra 50% OFF",
@@ -1354,7 +1354,7 @@ const PRODUCTS = {
     {
       id: 65,
       name: "Gold Plated Dual Tone Mangalsutra",
-      price: 649,
+      price: 111649,
       mrp: 1799,
       img: "https://www.gehnabox.com/cdn/shop/files/GMS766866_800x.jpg",
       tag: "Extra 50% OFF",
@@ -1363,7 +1363,7 @@ const PRODUCTS = {
     {
       id: 142,
       name: "Traditional Black Bead Mangalsutra",
-      price: 699,
+      price: 142699,
       mrp: 1999,
       img: "https://rukminim2.flixcart.com/image/480/640/xif0q/shopsy-mangalsutra-tanmaniya/k/o/b/ms-gold-no-03-yes-rohit-fashion-original-imagwgp3absukszy.jpeg",
       tag: "Extra 50% OFF",
@@ -1371,7 +1371,7 @@ const PRODUCTS = {
     {
       id: 145,
       name: "Short Diamond Pendant Mangalsutra",
-      price: 849,
+      price: 132849,
       mrp: 2399,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScip8ejfH8NyOm3DKNvcDYN8mlpMi9MkH1NA&s.jpeg",
       tag: "Extra 50% OFF",
@@ -1379,7 +1379,7 @@ const PRODUCTS = {
     {
       id: 146,
       name: "Long Chain Tanmaniya Style",
-      price: 999,
+      price: 121999,
       mrp: 2799,
       img: "https://images.meesho.com/images/products/517279243/kdojx_512.jpg",
       tag: "Extra 50% OFF",
@@ -1387,7 +1387,7 @@ const PRODUCTS = {
     {
       id: 147,
       name: "Modern Solitaire Mangalsutra",
-      price: 1199,
+      price: 1211199,
       mrp: 3299,
       img: "https://images.meesho.com/images/products/550305484/ojqfc_512.jpg",
       tag: "Extra 50% OFF",
@@ -1395,7 +1395,7 @@ const PRODUCTS = {
     {
       id: 148,
       name: "Layered Beaded Mangalsutra Set",
-      price: 799,
+      price: 131799,
       mrp: 2199,
       img: "https://images.meesho.com/images/products/468079998/6hil6_512.webp?width=512.jpg",
       tag: "Extra 50% OFF",
@@ -1403,7 +1403,7 @@ const PRODUCTS = {
     {
       id: 149,
       name: "Gold Plated Dual Tone Mangalsutra",
-      price: 649,
+      price: 123649,
       mrp: 1799,
       img: "https://assets.ajio.com/medias/sys_master/root/20250630/6rin/6862992fb13fc54edde2be79/brado_jewellery_gold-toned_women_gold-plated_mangalsutra_with_earrings.jpg",
       tag: "Extra 50% OFF",
@@ -1411,7 +1411,7 @@ const PRODUCTS = {
     {
       id: 150,
       name: "Layered Beaded Mangalsutra Set",
-      price: 799,
+      price: 142799,
       mrp: 2199,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV-pfGQOltSqdzAPcgtNi72reij8gclyV8gA&s.jpeg",
       tag: "Extra 50% OFF",
@@ -1419,7 +1419,7 @@ const PRODUCTS = {
     {
       id: 151,
       name: "Gold Plated Dual Tone Mangalsutra",
-      price: 649,
+      price: 123649,
       mrp: 1799,
       img: "https://m.media-amazon.com/images/I/A1sil3BXLvL._AC_UY1100_.jpg",
       tag: "Extra 50% OFF",
@@ -1427,7 +1427,7 @@ const PRODUCTS = {
     {
       id: 150,
       name: "Layered Beaded Mangalsutra Set",
-      price: 799,
+      price: 124799,
       mrp: 2199,
       img: "https://d25g9z9s77rn4i.cloudfront.net/uploads/product/1447/1717161366_9bce614e38b7cd6fabc6.png",
       tag: "Extra 50% OFF",
@@ -1435,7 +1435,7 @@ const PRODUCTS = {
     {
       id: 151,
       name: "Gold Plated Dual Tone Mangalsutra",
-      price: 649,
+      price: 123649,
       mrp: 1799,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1OHJBTm0eeCZejKCVugNvvJFdsGGb0dWHRg&s.png",
       tag: "Extra 50% OFF",
@@ -1445,7 +1445,7 @@ const PRODUCTS = {
     {
       id: 70,
       name: "Gold Bracelet Analogue Ladies Watch",
-      price: 1299,
+      price: 9321299,
       mrp: 3499,
       img: "https://cpimg.tistatic.com/6758514/b/4/timesquartz-wrist-watch-for-men.jpg",
       tag: "Extra 50% OFF",
@@ -1453,7 +1453,7 @@ const PRODUCTS = {
     {
       id: 71,
       name: "Rose Gold Mesh Band Watch",
-      price: 1499,
+      price: 2331499,
       mrp: 3999,
       img: "https://s.alicdn.com/@sc04/kf/H8bf002e58c364992b9533509a4c7c23dQ/Hot-Selling-Wristwatch-for-Men-Stainless-Steel-Watch-Male-Business-IP-Gold-Plating-Black-Cool-Design-38MM-With-Date.jpg_300x300.jpg",
       tag: "Extra 50% OFF",
@@ -1461,7 +1461,7 @@ const PRODUCTS = {
     {
       id: 72,
       name: "Diamond Studded Dress Watch",
-      price: 1799,
+      price: 1231799,
       mrp: 4799,
       img: "https://cpimg.tistatic.com/6758516/b/4/timesquartz-wrist-watch-for-men.jpg",
       tag: "Extra 50% OFF",
@@ -1469,7 +1469,7 @@ const PRODUCTS = {
     {
       id: 73,
       name: "Classic Chain Link Watch Gold",
-      price: 999,
+      price: 123999,
       mrp: 2799,
       img: "https://m.media-amazon.com/images/I/61mxB7OKadL._AC_UY1000_.jpg",
       tag: "Extra 50% OFF",
@@ -1477,7 +1477,7 @@ const PRODUCTS = {
     {
       id: 74,
       name: "Floral Dial Bangle Watch",
-      price: 1199,
+      price: 111199,
       mrp: 3199,
       img: "https://m.media-amazon.com/images/I/511d6HCF5LL._AC_UY350_.jpg",
       tag: "Extra 50% OFF",
@@ -1485,7 +1485,7 @@ const PRODUCTS = {
     {
       id: 75,
       name: "Minimalist Gold Slim Watch",
-      price: 1099,
+      price: 111099,
       mrp: 2999,
       img: "https://m.media-amazon.com/images/S/aplus-media/sc/24377773-9556-469c-88fd-6c5ad4236495.__CR0,0,1600,1600_PT0_SX300_V1___.jpg",
       tag: "Extra 50% OFF",
@@ -1493,7 +1493,7 @@ const PRODUCTS = {
     {
       id: 76,
       name: "Gold Bracelet Analogue Ladies Watch",
-      price: 4333,
+      price: 124333,
       mrp: 6854,
       img: "https://m.media-amazon.com/images/I/61+MuxZJIbL._AC_UY1000_.jpg",
       tag: "Extra 50% OFF",
@@ -1501,7 +1501,7 @@ const PRODUCTS = {
     {
       id: 77,
       name: "Rose Gold Mesh Band Watch",
-      price: 1499,
+      price: 121499,
       mrp: 3999,
       img: "https://m.media-amazon.com/images/I/61-MzuhTENL._SX522_.jpg",
       tag: "Extra 50% OFF",
@@ -1509,7 +1509,7 @@ const PRODUCTS = {
     {
       id: 78,
       name: "Diamond Studded Dress Watch",
-      price: 1799,
+      price: 4321799,
       mrp: 4799,
       img: "https://m.media-amazon.com/images/I/81q7uEjiE6L._AC_UY1000_.jpg",
       tag: "Extra 50% OFF",
@@ -1517,7 +1517,7 @@ const PRODUCTS = {
     {
       id: 79,
       name: "Classic Chain Link Watch Gold",
-      price: 999,
+      price: 421999,
       mrp: 2799,
       img: "https://images-static.nykaa.com/media/catalog/product/3/7/37114cc1216386_1.jpg",
       tag: "Extra 50% OFF",
@@ -1525,7 +1525,7 @@ const PRODUCTS = {
     {
       id: 80,
       name: "Floral Dial Bangle Watch",
-      price: 1199,
+      price: 2211199,
       mrp: 3199,
       img: "https://m.media-amazon.com/images/I/611sfRog+8L._AC_UY1000_.jpg",
       tag: "Extra 50% OFF",
@@ -1533,7 +1533,7 @@ const PRODUCTS = {
     {
       id: 81,
       name: "Minimalist Gold Slim Watch",
-      price: 1099,
+      price: 521099,
       mrp: 2999,
       img: "https://m.media-amazon.com/images/I/71ePB5nbwDL._AC_UY1000_.jpg",
       tag: "Extra 50% OFF",
@@ -1541,7 +1541,7 @@ const PRODUCTS = {
     {
       id: 82,
       name: "Floral Dial Bangle Watch",
-      price: 1199,
+      price: 421199,
       mrp: 3199,
       img: "https://m.media-amazon.com/images/I/61bBnKPeRLL._AC_UY1000_.jpg",
       tag: "Extra 50% OFF",
@@ -1549,7 +1549,7 @@ const PRODUCTS = {
     {
       id: 83,
       name: "Minimalist Gold Slim Watch",
-      price: 1099,
+      price: 221099,
       mrp: 2999,
       img: "https://rukmini1.flixcart.com/image/1500/1500/jx0prbk0/watch/u/q/j/stylish-black-golden-steel-belt-stylish-watch-royal-time-original-imafhkgyc4rpdsv4.jpeg",
       tag: "Extra 50% OFF",
@@ -1557,7 +1557,7 @@ const PRODUCTS = {
     {
       id: 82,
       name: "Floral Dial Bangle Watch",
-      price: 1199,
+      price: 221199,
       mrp: 3199,
       img: "https://static.vecteezy.com/system/resources/thumbnails/048/783/886/small/gold-watch-on-transparent-background-genereted-ai-free-png.png",
       tag: "Extra 50% OFF",
@@ -1565,7 +1565,7 @@ const PRODUCTS = {
     {
       id: 83,
       name: "Minimalist Gold Slim Watch",
-      price: 1099,
+      price: 551099,
       mrp: 2999,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2T-2dxbUH5tbsjcv2s_krA7ow4nYBNK-k-A&s.jpeg",
       tag: "Extra 50% OFF",
@@ -1680,6 +1680,36 @@ const TESTIMONIALS = [
 ];
 
 const getDiscount = (price, mrp) => Math.round(((mrp - price) / mrp) * 100);
+
+const getProductImages = (product) => {
+  const providedImages = product.images || product.gallery || [];
+  const images = [product.img, ...providedImages].filter(Boolean);
+
+  const sourceCategory = Object.values(PRODUCTS).find((items) =>
+    items.some((item) => item === product || item.img === product.img)
+  );
+
+  if (sourceCategory) {
+    const productIndex = sourceCategory.findIndex(
+      (item) => item === product || item.img === product.img
+    );
+    const orderedProducts =
+      productIndex >= 0
+        ? [
+            ...sourceCategory.slice(productIndex),
+            ...sourceCategory.slice(0, productIndex),
+          ]
+        : sourceCategory;
+
+    images.push(...orderedProducts.map((item) => item.img));
+  }
+
+  images.push(
+    ...Object.values(PRODUCTS).flatMap((items) => items.map((item) => item.img))
+  );
+
+  return [...new Set(images)].slice(0, 4);
+};
 
 // Sub-nav category to PRODUCTS key mapping
 const SUBNAV_MAP = {
@@ -4697,11 +4727,8 @@ const ProductCard = ({
             top: 8,
             left: 8,
             zIndex: 2,
-            background:
-              product.tag === "FESTIVE DEAL"
-                ? "var(--brand)"
-                : "var(--sale-bg)",
-            color: product.tag === "FESTIVE DEAL" ? "#fff" : "var(--sale-text)",
+            background: "var(--brand)",
+            color: "rgb(225, 225, 225)",
             fontSize: 9,
             fontWeight: 700,
             padding: "3px 8px",
@@ -5789,11 +5816,7 @@ const ProductDetailPage = ({
   const [added, setAdded] = useState(false);
   const [loginPrompt, setLoginPrompt] = useState(false);
   const disc = getDiscount(product.price, product.mrp);
-  // The original code was appending Unsplash-specific parameters to all image URLs,
-  // which would break if the image was not hosted on Unsplash.
-  // To fix "image not found", we will use the base image URL for all thumbnails.
-  // If different image variations are desired, they should be provided as separate URLs in the product data.
-  const imgs = Array(4).fill(product.img); // Use the main image for all thumbnails
+  const imgs = getProductImages(product);
 
   const handleAdd = () => {
     if (!user) {
@@ -5931,8 +5954,8 @@ const ProductDetailPage = ({
                 style={{
                   fontWeight: 700,
                   fontSize: 12,
-                  color: "var(--sale-text)",
-                  background: "var(--sale-bg)",
+                  color: "rgb(225, 225, 225)",
+                  background: "var(--brand)",
                   padding: "3px 8px",
                   borderRadius: 2,
                 }}
@@ -7311,6 +7334,17 @@ const ContactPage = () => {
                 ].map((s, i) => (
                   <button
                     key={i}
+                    onClick={() =>
+                      window.open(
+                        [
+                          "https://www.facebook.com/",
+                          "https://www.instagram.com/",
+                          "https://www.youtube.com/",
+                        ][i],
+                        "_blank",
+                        "noopener,noreferrer"
+                      )
+                    }
                     style={{
                       background: "var(--brand5)",
                       border: "1px solid var(--brand4)",
