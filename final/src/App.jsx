@@ -4402,7 +4402,7 @@ const Navbar = ({
     { label: "Collections", page: "Collections" },
     { label: "Bridal", page: "Bridal" },
     { label: "Custom Order", page: "Custom Order" },
-    { label: "Location", page: "Contact" },
+    // { label: "Location", page: "Contact" },
     { label: "Contact", page: "Contact" },
   ];
   const subNavItems = [
