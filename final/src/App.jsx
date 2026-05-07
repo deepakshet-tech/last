@@ -4402,6 +4402,7 @@ const Navbar = ({
     { label: "Collections", page: "Collections" },
     { label: "Bridal", page: "Bridal" },
     { label: "Custom Order", page: "Custom Order" },
+    { label: "Contact", page: "Contact" },
   ];
   const subNavItems = [
     "HOME",
@@ -8236,7 +8237,7 @@ const Footer = ({ setPage, onPolicyPage, onShopCategory }) => (
             >
               Navigate
             </p>
-            {["Home", "Collections", "Bridal", "Custom Order"].map((item) => (
+            {["Home", "Collections", "Bridal", "Custom Order", "Contact"].map((item) => (
               <p
                 key={item}
                 onClick={() => setPage(item)}
@@ -8538,6 +8539,7 @@ export default function App() {
           />
         )}
         {page === "Custom Order" && <CustomOrderPage />}
+        {page === "Contact" && <ContactPage />}
         {page === "Policy" && policyPage && (
           <PolicyPage
             policyKey={policyPage}
