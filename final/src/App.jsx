@@ -4402,8 +4402,6 @@ const Navbar = ({
     { label: "Collections", page: "Collections" },
     { label: "Bridal", page: "Bridal" },
     { label: "Custom Order", page: "Custom Order" },
-    // { label: "Location", page: "Contact" },
-    { label: "Contact", page: "Contact" },
   ];
   const subNavItems = [
     "HOME",
@@ -4481,9 +4479,7 @@ const Navbar = ({
           {navLinks.map(({ label, page: targetPage }) => (
             <button
               key={label}
-              className={`nav-link ${
-                page === targetPage && label !== "Location" ? "active" : ""
-              }`}
+              className={`nav-link ${page === targetPage ? "active" : ""}`}
               onClick={() => setPage(targetPage)}
             >
               {label}
@@ -8240,25 +8236,23 @@ const Footer = ({ setPage, onPolicyPage, onShopCategory }) => (
             >
               Navigate
             </p>
-            {["Home", "Collections", "Bridal", "Custom Order", "Contact"].map(
-              (item) => (
-                <p
-                  key={item}
-                  onClick={() => setPage(item)}
-                  style={{
-                    fontSize: 11,
-                    opacity: 0.78,
-                    marginBottom: 12,
-                    cursor: "pointer",
-                    transition: "opacity 0.2s",
-                  }}
-                  onMouseEnter={(e) => (e.currentTarget.style.opacity = "1")}
-                  onMouseLeave={(e) => (e.currentTarget.style.opacity = "0.78")}
-                >
-                  {item}
-                </p>
-              )
-            )}
+            {["Home", "Collections", "Bridal", "Custom Order"].map((item) => (
+              <p
+                key={item}
+                onClick={() => setPage(item)}
+                style={{
+                  fontSize: 11,
+                  opacity: 0.78,
+                  marginBottom: 12,
+                  cursor: "pointer",
+                  transition: "opacity 0.2s",
+                }}
+                onMouseEnter={(e) => (e.currentTarget.style.opacity = "1")}
+                onMouseLeave={(e) => (e.currentTarget.style.opacity = "0.78")}
+              >
+                {item}
+              </p>
+            ))}
           </div>
           <div>
             <p
@@ -8544,7 +8538,6 @@ export default function App() {
           />
         )}
         {page === "Custom Order" && <CustomOrderPage />}
-        {page === "Contact" && <ContactPage />}
         {page === "Policy" && policyPage && (
           <PolicyPage
             policyKey={policyPage}
